@@ -6,8 +6,8 @@ I have made **3 models** using different algos and the best model is
 
 Model graph
 * ARIMA Model
-![ARIMA]("E:\100DaysDataScience\Time Series Analysis StockPrice\images\ARIMA.png")
+![ARIMA](/images/ARIMA.png)
 * LSTM Model
-![LSTM]("E:\100DaysDataScience\Time Series Analysis StockPrice\images\lstm.png")
+![LSTM](/images/lstm.png)
 * Random Forest
-![RF]("E:\100DaysDataScience\Time Series Analysis StockPrice\images\rf.png")
+![RF](/images/rf.png)
